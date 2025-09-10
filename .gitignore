@@ -1,0 +1,10 @@
+# Node or editor cruft (future-proofing)
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+# zips or local exports
+*.zip
+*.tgz
+# local notes
+*.local.*
